@@ -102,8 +102,7 @@ function dbCreateTables($database) {
 			('thumbQuality','90'),
 			('checkForUpdates','1'),
 			('sorting','ORDER BY id DESC'),
-			('dropboxKey',''),
-			('albumPrefix', '[import] ');
+			('dropboxKey','');
 
 		";
 
